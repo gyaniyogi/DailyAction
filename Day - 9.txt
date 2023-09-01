@@ -1,0 +1,50 @@
+ Today's learning and observations from team members are as follows:	
+
+	A. How to access the website from a local PC? (Kunal Sir)
+
+		Make entry of ip add and fqdn name or alias of a domain into a host file
+
+	B. How To transfer a domain to a new host? (Pushkar Sir)
+
+		For example:
+If The client wants to transfer a domain from the old host to the New host
+
+Domain transfer is an automated process. 
+The new host administrator generates a request for domain transfer
+Then, the client will approve those requests.
+Later, the old host will give approval, and finally domain will get transferred to the new Host
+
+	C. Mail delivery issue
+
+DKIM issue. finally, it was found that NameServer had been taken from another webhosting company. mail service is also from a third party.
+
+
+
+
+
+
+Respected Mam,
+
+Here is the list of Today's learning.
+
+1. Revision of both the courses i.e. "WP Toolkit for cPanel (CP-WPT1)" & "cPanel & Webhosting Fundamentals (CP001)" and also passed the unit test with 85% marks
+
+2. Today's learning and observations from team members are as follows:	
+
+	A. How to access the website from a local PC? (Kunal Sir)
+
+
+	B. How To transfer a domain to a new host? (Pushkar Sir)
+
+	C. Mail delivery issue (Pushkar Sir)
+
+
+
+Please feel free to share improvement points with me
+
+Thank you, 
+
+Regards,
+
+Yogesh
+
